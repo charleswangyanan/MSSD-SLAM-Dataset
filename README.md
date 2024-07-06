@@ -1,5 +1,3 @@
-# MSSD-SLAM-Dataset
-captured using a RealSense D455 camera. The dataset provides high-precision ground truth obtained from motion capture devices, designed to support the evaluation and development of SLAM algorithms in dynamic environments.
 
 # MSSD-SLAM-Dataset
 
